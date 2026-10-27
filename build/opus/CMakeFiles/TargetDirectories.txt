@@ -1,0 +1,9 @@
+C:/Users/Munya/Downloads/Compressed/KytyPS5-U59-Windows-x64/DualSenseMusic/build/opus/CMakeFiles/opus.dir
+C:/Users/Munya/Downloads/Compressed/KytyPS5-U59-Windows-x64/DualSenseMusic/build/opus/CMakeFiles/package.dir
+C:/Users/Munya/Downloads/Compressed/KytyPS5-U59-Windows-x64/DualSenseMusic/build/opus/CMakeFiles/package_source.dir
+C:/Users/Munya/Downloads/Compressed/KytyPS5-U59-Windows-x64/DualSenseMusic/build/opus/CMakeFiles/edit_cache.dir
+C:/Users/Munya/Downloads/Compressed/KytyPS5-U59-Windows-x64/DualSenseMusic/build/opus/CMakeFiles/rebuild_cache.dir
+C:/Users/Munya/Downloads/Compressed/KytyPS5-U59-Windows-x64/DualSenseMusic/build/opus/CMakeFiles/list_install_components.dir
+C:/Users/Munya/Downloads/Compressed/KytyPS5-U59-Windows-x64/DualSenseMusic/build/opus/CMakeFiles/install.dir
+C:/Users/Munya/Downloads/Compressed/KytyPS5-U59-Windows-x64/DualSenseMusic/build/opus/CMakeFiles/install/local.dir
+C:/Users/Munya/Downloads/Compressed/KytyPS5-U59-Windows-x64/DualSenseMusic/build/opus/CMakeFiles/install/strip.dir
